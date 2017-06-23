@@ -1,0 +1,23 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+SofreightApi	/home/johann/development/buyco/sofreight_api/lib/sofreight_api/errors.rb	/^module SofreightApi::Errors$/;"	module	line:1
+NoAuthorizationCode	/home/johann/development/buyco/sofreight_api/lib/sofreight_api/errors.rb	/^  class NoAuthorizationCode < StandardError$/;"	class	line:3	class:SofreightApi
+initialize	/home/johann/development/buyco/sofreight_api/lib/sofreight_api/errors.rb	/^    def initialize(*args)$/;"	method	line:4	class:SofreightApi.NoAuthorizationCode
+AuthorizationCodeError	/home/johann/development/buyco/sofreight_api/lib/sofreight_api/errors.rb	/^  class AuthorizationCodeError < StandardError$/;"	class	line:9	class:SofreightApi
+initialize	/home/johann/development/buyco/sofreight_api/lib/sofreight_api/errors.rb	/^    def initialize(*args)$/;"	method	line:10	class:SofreightApi.AuthorizationCodeError
+IllegalServerIpCall	/home/johann/development/buyco/sofreight_api/lib/sofreight_api/errors.rb	/^  class IllegalServerIpCall < StandardError$/;"	class	line:15	class:SofreightApi
+initialize	/home/johann/development/buyco/sofreight_api/lib/sofreight_api/errors.rb	/^    def initialize(*args)$/;"	method	line:16	class:SofreightApi.IllegalServerIpCall
+UnknownSystemError	/home/johann/development/buyco/sofreight_api/lib/sofreight_api/errors.rb	/^  class UnknownSystemError < StandardError$/;"	class	line:21	class:SofreightApi
+initialize	/home/johann/development/buyco/sofreight_api/lib/sofreight_api/errors.rb	/^    def initialize(*args)$/;"	method	line:22	class:SofreightApi.UnknownSystemError
+UnexistingAddress	/home/johann/development/buyco/sofreight_api/lib/sofreight_api/errors.rb	/^  class UnexistingAddress < StandardError$/;"	class	line:27	class:SofreightApi
+initialize	/home/johann/development/buyco/sofreight_api/lib/sofreight_api/errors.rb	/^    def initialize(*args)$/;"	method	line:28	class:SofreightApi.UnexistingAddress
+ServiceRequestTimeout	/home/johann/development/buyco/sofreight_api/lib/sofreight_api/errors.rb	/^  class ServiceRequestTimeout < StandardError$/;"	class	line:33	class:SofreightApi
+initialize	/home/johann/development/buyco/sofreight_api/lib/sofreight_api/errors.rb	/^    def initialize(*args)$/;"	method	line:34	class:SofreightApi.ServiceRequestTimeout
+RemoteConnectionRefused	/home/johann/development/buyco/sofreight_api/lib/sofreight_api/errors.rb	/^  class RemoteConnectionRefused < StandardError$/;"	class	line:39	class:SofreightApi
+initialize	/home/johann/development/buyco/sofreight_api/lib/sofreight_api/errors.rb	/^    def initialize(*args)$/;"	method	line:40	class:SofreightApi.RemoteConnectionRefused
+DataValueError	/home/johann/development/buyco/sofreight_api/lib/sofreight_api/errors.rb	/^  class DataValueError < StandardError$/;"	class	line:45	class:SofreightApi
+initialize	/home/johann/development/buyco/sofreight_api/lib/sofreight_api/errors.rb	/^    def initialize(*args)$/;"	method	line:77	class:SofreightApi.DataValueError
